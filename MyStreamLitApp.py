@@ -1,3 +1,11 @@
+
+
+st.title(""" 
+# First Exploration on the use of Streamlit with my github - 🚀
+""")
+st.write('Linking Github to Streamlit for app development!')
+
+
 """
 # My first app
 Here's our first attempt at using data to create a table:
