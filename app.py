@@ -1,6 +1,8 @@
 
 #Building an app to predict poverty. We use different ML algorithm but emerged with with the best for the prediction
-#Model was training using the GLSS7 dataset at the household level.
+#Model was trained using the GLSS7 dataset at the household level
+# With the individual data been the head of household
+# location/region variables are also been used to account for spacial dimension
 # Import dependencies
 import streamlit as st
 import pandas as pd
